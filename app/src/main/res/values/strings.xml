@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Chordify</string>
+
+    <string name="searchBtn">Search new song</string>
+    <string name="studentBtn">Search DataBase</string>
+    <string name="addBtn">Add</string>
+    <string name="titleText">Title</string>
+    <string name="authorText">Author</string>
+    <string name="textText">Text</string>
+    <string name="chordsText">Chords</string>
+    <string name="backBtn">Back</string>
+    <string name="addSongBtn">Add Song</string>
+    <string name="songNameTxt">Song name</string>
+</resources>
